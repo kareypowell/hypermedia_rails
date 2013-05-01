@@ -9,7 +9,7 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'active_model_serializers', :git => 'git://github.com/josevalim/active_model_serializers.git'
+gem 'active_model_serializers', :git => 'git://github.com/rails-api/active_model_serializers.git'
 gem 'devise'
 gem 'has_scope'
 gem 'jquery-rails'
